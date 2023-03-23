@@ -1,1 +1,0 @@
-console.log("En este archivo se definiran las rutas del proyecto");
